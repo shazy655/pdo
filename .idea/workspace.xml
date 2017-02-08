@@ -18,15 +18,15 @@
       <file leaf-file-name="scriptMigrationCountry.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scriptMigrationCountry.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1547">
-              <caret line="110" column="5" lean-forward="true" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
+            <state relative-caret-position="264">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
-                <marker date="1486550536968" expanded="true" signature="631:645" ph="SELECT * FRO... ${$table}" />
-                <marker date="1486550536968" expanded="true" signature="631:651" ph="SELECT * FRO... users" />
-                <marker date="1486550536968" expanded="true" signature="869:883" ph="SELECT * FRO... ${$table}" />
-                <marker date="1486550536968" expanded="true" signature="869:896" ph="SELECT * FRO... ${$table}" />
-                <marker date="1486550536968" expanded="true" signature="1134:1161" ph="SELECT * FRO... ${$table}" />
-                <marker date="1486550536968" expanded="true" signature="1440:1475" ph="update ${$ta... " />
+                <marker date="1486551576041" expanded="true" signature="621:635" ph="SELECT * FRO... ${$table}" />
+                <marker date="1486551576041" expanded="true" signature="621:641" ph="SELECT * FRO... users" />
+                <marker date="1486551576041" expanded="true" signature="859:873" ph="SELECT * FRO... ${$table}" />
+                <marker date="1486551576041" expanded="true" signature="859:886" ph="SELECT * FRO... ${$table}" />
+                <marker date="1486551576041" expanded="true" signature="1124:1151" ph="SELECT * FRO... ${$table}" />
+                <marker date="1486551576041" expanded="true" signature="1430:1465" ph="update ${$ta... " />
               </folding>
             </state>
           </provider>
@@ -103,12 +103,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486544923646</updated>
-      <workItem from="1486544924957" duration="4245000" />
+      <workItem from="1486544924957" duration="4603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4245000" />
+    <option name="totallyTimeSpent" value="4603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -137,15 +137,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scriptMigrationCountry.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="110" column="5" lean-forward="true" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
+        <state relative-caret-position="264">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <marker date="1486550536968" expanded="true" signature="631:645" ph="SELECT * FRO... ${$table}" />
-            <marker date="1486550536968" expanded="true" signature="631:651" ph="SELECT * FRO... users" />
-            <marker date="1486550536968" expanded="true" signature="869:883" ph="SELECT * FRO... ${$table}" />
-            <marker date="1486550536968" expanded="true" signature="869:896" ph="SELECT * FRO... ${$table}" />
-            <marker date="1486550536968" expanded="true" signature="1134:1161" ph="SELECT * FRO... ${$table}" />
-            <marker date="1486550536968" expanded="true" signature="1440:1475" ph="update ${$ta... " />
+            <marker date="1486551576041" expanded="true" signature="621:635" ph="SELECT * FRO... ${$table}" />
+            <marker date="1486551576041" expanded="true" signature="621:641" ph="SELECT * FRO... users" />
+            <marker date="1486551576041" expanded="true" signature="859:873" ph="SELECT * FRO... ${$table}" />
+            <marker date="1486551576041" expanded="true" signature="859:886" ph="SELECT * FRO... ${$table}" />
+            <marker date="1486551576041" expanded="true" signature="1124:1151" ph="SELECT * FRO... ${$table}" />
+            <marker date="1486551576041" expanded="true" signature="1430:1465" ph="update ${$ta... " />
           </folding>
         </state>
       </provider>

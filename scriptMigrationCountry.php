@@ -10,7 +10,7 @@ class pdoConnect
     public function __construct()
     {
         try {
-            $this->db = new PDO("mysql:host=$this->servername;dbname=modelique_live", $this->username, $this->password);
+            $this->db = new PDO("mysql:host=$this->servername;dbname=test", $this->username, $this->password);
             // set the PDO error mode to exception
             $this->db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         } catch (PDOException $e) {
